@@ -1,4 +1,4 @@
-TA Buddy: Desktop application UI inspector [![Build Status](https://travis-ci.org/digimead/digi-TABuddy-desktop-ui-inspector.png?branch=master)](https://travis-ci.org/digimead/digi-TABuddy-desktop-ui-inspector)
+TA Buddy: Desktop application UI inspector [![Build Status](https://travis-ci.org/digimead/digi-TABuddy-desktop-UI-inspector.png?branch=master)](https://travis-ci.org/digimead/digi-TABuddy-desktop-UI-inspector)
 ==========================================
 
 TA Buddy: Desktop application UI inspector is interactive development tool that simplify UI development.
