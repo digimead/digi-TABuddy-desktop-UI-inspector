@@ -3,7 +3,7 @@ TA Buddy: Desktop UI inspector [![Build Status](https://travis-ci.org/digimead/d
 
 TA Buddy: Desktop UI inspector is interactive development tool that simplify UI development.
 
-[TA Buddy: Desktop UI inspector documentation](http://digimead.github.io/digi-TABuddy-desktop-ui-inspector/).
+[TA Buddy: Desktop UI inspector documentation](http://digimead.github.io/digi-TABuddy-desktop-UI-inspector/).
 
 __Required Java 7 or higher__
 
