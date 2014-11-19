@@ -1,0 +1,14 @@
+---
+out: index.html
+---
+
+digi-TABuddy-desktop-UI-inspector
+=================================
+
+Interactive development tool that simplify UI development.
+
+<hr/>
+
+> [Latest stable version - UNKNOWN]($stable$)
+
+> [Latest development version - UNKNOWN]($development$)

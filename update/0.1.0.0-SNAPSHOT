@@ -1,0 +1,8 @@
+@@central
+@@http://storage.googleapis.com/maven.repository.digimead.org/
+@*http://download.eclipse.org/eclipse/updates/4.3/R-4.3.1-201309111000/plugins/
+@*http://storage.googleapis.com/digi/R-4.3.1-201309111000/
+
+%>org.digimead/digi-tabuddy-desktop-core-ui-inspector_2.11/0.1.0.0-SNAPSHOT
+
+:org.digimead.tabuddy.desktop.core.ui.defaultBundle
